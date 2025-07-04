@@ -10,8 +10,6 @@
 [![Discord](https://img.shields.io/badge/Discord-dory_theskinwalkerr-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.com)  
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-Playlist-orange?logo=soundcloud&logoColor=white&style=flat-square)](https://on.soundcloud.com/7PApca5Hd8SdrQlqlG)
 
-![Pochita](https://i.imgur.com/mM1M7Cb.gif)
-
 
 <!--
 **dory0w0/dory0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
