@@ -9,7 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@dory_theincel-purple?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/dory_theincel/)  
 [![Discord](https://img.shields.io/badge/Discord-dory_theskinwalkerr-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.com)  
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-Playlist-orange?logo=soundcloud&logoColor=white&style=flat-square)](https://on.soundcloud.com/7PApca5Hd8SdrQlqlG)
-![Pochita](https://media.tenor.com/C0nkDXJRYaEAAAAi/pochita-chainsaw-man.gif)
+
+![Pochita](https://i.imgur.com/mM1M7Cb.gif)
 
 
 <!--
