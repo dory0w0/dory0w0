@@ -1,5 +1,4 @@
 16 year old dude
-(amateur)
 
 
 
