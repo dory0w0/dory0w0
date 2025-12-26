@@ -5,7 +5,9 @@
 
   [![Discord](https://img.shields.io/badge/Discord-dory_theskinwalkerr-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-@8krul8-purple?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/8krul8/)   
-   [![SoundCloud](https://img.shields.io/badge/SoundCloud-Playlist-orange?logo=soundcloud&logoColor=white&style=flat-square)](https://on.soundcloud.com/7PApca5Hd8SdrQlqlG) 
+    [![Spotify](https://img.shields.io/badge/Spotify-dory__theskinwalkerr-1DB954?logo=spotify&logoColor=white&style=flat-square)](https://open.spotify.com/user/31ovvajd2m7r6a7o4udpxkurt6ee)     
+  [![Steam](https://img.shields.io/badge/Steam-spaghetti-1b2838?logo=steam&logoColor=white&style=flat-square)](https://steamcommunity.com/profiles/76561198793795692/)
+
 
 
 <!--
